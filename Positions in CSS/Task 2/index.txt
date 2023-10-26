@@ -1,0 +1,9 @@
+Difference between absolute and relative positioning:
+1. Relative positioning maintains the element's place in the normal document flow, while absolute positioning removes it from the flow.
+
+2. Relative positioning is based on the element's original position and moves it from there, whereas absolute positioning is based on its nearest positioned ancestor or the viewport.
+
+3. Elements with absolute positioning can overlap other elements, which is not the case with relative positioning.
+
+4. Absolute positioning is often used for creating overlays, pop-up windows, and floating elements, while relative positioning is used when you want to make minor adjustments to an element's 
+   position without taking it out of the document flow.
